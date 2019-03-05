@@ -3,7 +3,7 @@
 Thanks for being a part of the PyLadies Chapter Launch!
 
 We would love your feedback and your vote for the next meetup! Do share your thoughts on:
-tinyurl.com/pyladieschennai-feedback
+[tinyurl.com/pyladieschennai-feedback](tinyurl.com/pyladieschennai-feedback)
 
 If you would like to be a mentor or a mentee, please do fill out the form: 
 [tinyurl.com/pyladieschennai-mentorship](tinyurl.com/pyladieschennai-mentorship)
